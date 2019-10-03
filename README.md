@@ -8,3 +8,6 @@ There are two main types of recommender systems:
 - Collaborative filters
 
 However, nowadays a combination of both approaches is used.
+
+> *Content-based methods are based on the similarity of item attributes and collaborative methods calculate similarity from 
+> interactions*.
