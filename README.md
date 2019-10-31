@@ -11,3 +11,8 @@ However, nowadays a combination of both approaches is used.
 
 > *Content-based methods are based on the similarity of item attributes and collaborative methods calculate similarity from 
 > interactions*.
+
+**Content-based methods** are computationally fast and interpretable. Moreover, they can be efficiently adapted to new items or users. 
+However, one of the biggest limitations of content-based recommendation systems is that the model only learns to recommend items of the same type that the user is already using or, in our case, listening to. Even though this could be helpful, the value of that recommendation is significantly less because it lacks the surprise component of discovering something completely new.
+
+
