@@ -4,8 +4,8 @@ A **recommender** (or recommendation) **system** (or engine) is a filtering syst
   
 There are two main types of recommender systems:
 
-- Content-based filters
-- Collaborative filters
+- Content-based filters: [Medium post](https://medium.com/@meinzaugarat/the-abc-of-building-a-music-recommender-system-part-i-230e99da9cad)
+- Collaborative filters: [Medium post](https://medium.com/@meinzaugarat/the-abc-of-building-a-music-recommender-system-part-ii-65ec3900d19f)
 
 > *Content-based methods* gives recommendations based on the similarity of two song contents or attributes while 
 > *collaborative methods* make a prediction on posible preferences using a matrix with ratings on different songs.
