@@ -34,7 +34,7 @@ I. **Content-based recommendation system**:
   a. A jupyter notebook named `content_based_music_recommender` that contains the code and analysis for the recommedation system.  
   b. A `CSV` file named `songdata` containing the data for the songs used in the system.
 
-   II. Collaborative recommendation system: 
+II. **Collaborative recommendation system**: 
  
   a. A jupyter notebook named `collaborative_music_recommender` that contains the code and analysis for the recommedation system.  
   b. A `CSV` file named `songs` containing the data for the songs used in the system.
