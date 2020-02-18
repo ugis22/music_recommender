@@ -13,9 +13,9 @@ There are two main types of recommender systems:
 **Content-based methods** are computationally fast and interpretable. Moreover, they can be efficiently adapted to new items or users. 
 However, one of the biggest limitations of content-based recommendation systems is that the model only learns to recommend items of the same type that the user is already using or, in our case, listening to. Even though this could be helpful, the value of that recommendation is significantly less because it lacks the surprise component of discovering something completely new.
 
-**Collaborative-based methods**
+**Collaborative-based methods** work with an interaction matrix, also called rating matrix. The aim of this algorithm is to learn a function that can predict if a user will benefit from an item - meaning the user will likely buy, listen to, watch this item.
 
-******** 🚧🚧 UNDER CONSTRUCTION 🚧🚧 ************
+Among collaborative-based systems, we can encounter two types: **user-item** filtering and **item-item** filtering. 
 
 #
 
