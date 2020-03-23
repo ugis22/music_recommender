@@ -32,7 +32,6 @@ class Recommender:
         return recommendations
                  
     def _get_recommendations(self, new_song, n_recommendations):
-        print(new_song)
         # Get the id of the song according to the text
         recom_song_id = self._fuzzy_matching(song=new_song)
         # Start the recommendation process
